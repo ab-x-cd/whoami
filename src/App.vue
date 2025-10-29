@@ -17,8 +17,8 @@ onMounted(() => {
           <img src="/pfp.jpg" alt="Profile Picture" />
           <div class="menu">
             <a href="#about">About</a>
+            <a href ="#contact">Links</a>
             <a href="#gaming">Gaming</a>
-            <a href="#contact">Contact</a>
           </div>
         </a>
       </div>
@@ -75,6 +75,12 @@ onMounted(() => {
             <a href="https://steamcommunity.com/id/blinisan" target="_blank" rel="noopener">
               <img src="https://avatars.fastly.steamstatic.com/713baf11c21d77ed511ea0e6e246c014ce7af92f_full.jpg" alt="Steam Profile 2" />
               Steam 2
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/ab-x-cd" target="_blank" rel="noopener">
+              <img src="https://unavatar.io/github/ab-x-cd" alt="GitHub Profile" />
+              GitHub
             </a>
           </li>
           <li>
